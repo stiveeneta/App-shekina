@@ -1,0 +1,8 @@
+{
+  "name": "Shekina Waste Management",
+  "description": "Une application mobile minimaliste pour la gestion des collectes d'ordures ménagères au Congo Brazzaville (Brazzaville & Pointe-Noire).",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
